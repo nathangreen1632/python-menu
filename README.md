@@ -54,7 +54,7 @@ A simple terminal-based Python program that simulates a restaurant ordering expe
 3. Run the file using Python:
 
 ```bash
-python restaurant_ordering.py
+python3 order_system.py
 ```
 
 Follow the prompts in the terminal to place your order.
